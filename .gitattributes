@@ -1,6 +1,8 @@
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
+fractals/include/** linguist-vendored
+fractals/lib/** linguist-vendored
 * text=auto
 
 ###############################################################################
